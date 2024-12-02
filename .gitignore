@@ -1,0 +1,12 @@
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+data/quikr_car_cleaned.csv
+data/car_price_model.pkl
+*.pkl
